@@ -17,5 +17,7 @@ hono + svelte + pages,  sample
 ### blog 
 
 
+https://zenn.dev/knaka0209/scraps/37b8a21e729c4f
+
 ***
 
