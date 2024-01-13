@@ -6,12 +6,12 @@
 
  date    : 2024/01/12
 
- update  :
+ update  : 2024/01/14
 
 ***
 ### Summary
 
-hono + svelte + pages,  sample
+hono + Svelte SPA + pages,  sample
 
 ***
 ### blog 
