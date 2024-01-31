@@ -6,13 +6,32 @@
 
  date    : 2024/01/12
 
- update  : 2024/01/14 
+ update  : 2024/01/30
 
 ***
 ### Summary
 
-hono + Svelte SPA + pages,  sample
+hono + Svelte SPA + CF-pages,  sample
 
+***
+### start
+
+* dev-start
+```
+yarn dev
+```
+* svelte-build
+```
+npx vite build --mode client
+
+#watch-mode
+npx vite build --mode client --watch
+```
+
+* build
+```
+yarn build
+```
 ***
 ### blog 
 
